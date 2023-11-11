@@ -18,4 +18,4 @@
 
 <br/>
 
-## Course 2 : [Programming With Javascript](/C2-Programming-with-Javascript/)
+## Course 2 : [Programming With Javascript](https://www.coursera.org/learn/programming-with-javascript)
